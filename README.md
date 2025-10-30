@@ -313,4 +313,3 @@ flowchart TD
 
 ---
 
-👉 Do you want me to now **add a side-by-side comparison table (Normal vs Claude prompts with examples)** so your students can instantly see the difference?
