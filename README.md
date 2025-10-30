@@ -1,5 +1,5 @@
 
-# 📖 Prompting Techniques with FlowS
+# 📖 Prompting Techniques with Flow
 
 ## 📝 Instructive Prompting
 
